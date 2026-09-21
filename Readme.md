@@ -27,7 +27,7 @@ I'm especially interested in the connection between data and business — unders
 I love the "aha!" moment when data reveals something that wasn't obvious at first.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://github.com/ahmedalaa220210-ship-it)
+
       
 ## 🔭 What I'm Currently Working On
 
